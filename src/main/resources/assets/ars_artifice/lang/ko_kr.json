@@ -8,7 +8,7 @@
     "ars_artifice.glyph_name.glyph_interval": "간격",
     "ars_artifice.glyph_name.glyph_landing": "착지",
     "ars_artifice.spell_gem.invalid": "이 주문에 문제가 있습니다.",
-    "ars_nouveau.spell.validation.adding.starting_artifice_method": "주문은 유물 기술 글리프로 시작해야 합니다.",
+    "ars_nouveau.spell.validation.adding.starting_artifice_method": "주문은 유물 형태 상형문자로 시작해야 합니다.",
     "block.ars_artifice.artificers_workbench": "유물 제작자의 작업대",
     "item.ars_artifice.spell_gem_t1": "주문 보석",
     "item.ars_artifice.spell_gem_t2": "주문 보석",
